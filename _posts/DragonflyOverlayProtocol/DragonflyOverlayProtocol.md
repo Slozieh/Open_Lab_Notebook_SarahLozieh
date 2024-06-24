@@ -5,7 +5,7 @@ Dragonfly Image Overlay/Subtraction Protocol
 
 ![alt text](/Users/sarahlozieh/Dropbox/Open_Lab_Notebook_SarahLozieh/images/ParrotfishPic.jpg)
 
-2. Image spacing 1.44um—--> .0144mm X, Y, Z
+2. Image spacing 1.44um—--> .00144mm X, Y, Z
 3. Layout 4 window view
 4. Open both eyes to see both skeletons
 5. Click T20 & Use opacity (transparency) to see the overlay in window leveling
