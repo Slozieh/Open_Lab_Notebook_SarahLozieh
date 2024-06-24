@@ -2,6 +2,9 @@ Dragonfly Image Overlay/Subtraction Protocol
 
 
 1. Import both files T0 and T20
+
+![alt text](/Users/sarahlozieh/Dropbox/Open_Lab_Notebook_SarahLozieh/images/ParrotfishPic.jpg)
+
 2. Image spacing 1.44um—--> .0144mm X, Y, Z
 3. Layout 4 window view
 4. Open both eyes to see both skeletons
